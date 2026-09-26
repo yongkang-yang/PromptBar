@@ -94,6 +94,7 @@ final class ResultWindow: NSObject, NSWindowDelegate {
             close: { [weak self] in self?.close() }
         )
         panel.contentView = NSHostingView(rootView: ResultView(model: model, actions: actions))
+        panel.roundCorners(Metrics.panelRadius)
         panel.onKey = { [weak self] event in self?.handle(event) ?? false }
         return panel
     }
