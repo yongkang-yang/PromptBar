@@ -100,4 +100,4 @@ The icon is drawn by `swift Scripts/make-icon.swift`.
 
 ## License
 
-[GPL-3.0-or-later](LICENSE).
+[MIT](LICENSE).

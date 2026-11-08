@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import Foundation
 
 /// What the model is asked to do with a piece of text. The prompts are the

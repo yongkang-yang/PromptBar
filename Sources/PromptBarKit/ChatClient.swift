@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import Foundation
 
 /// An error whose message is meant for the result panel as it stands.
