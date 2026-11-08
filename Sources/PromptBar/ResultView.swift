@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import SwiftUI
 
 /// The panel's content: a header, one card per section, and a footer that

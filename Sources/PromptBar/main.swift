@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import AppKit
 
 // OCR runs Vision in a short-lived copy of this executable; see ScreenText.recognize.
